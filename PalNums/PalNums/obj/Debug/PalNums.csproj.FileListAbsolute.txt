@@ -1,0 +1,7 @@
+C:\CC6\Labs\PalNums\PalNums\bin\Debug\PalNums.exe.config
+C:\CC6\Labs\PalNums\PalNums\bin\Debug\PalNums.exe
+C:\CC6\Labs\PalNums\PalNums\bin\Debug\PalNums.pdb
+C:\CC6\Labs\PalNums\PalNums\obj\Debug\PalNums.csprojAssemblyReference.cache
+C:\CC6\Labs\PalNums\PalNums\obj\Debug\PalNums.csproj.CoreCompileInputs.cache
+C:\CC6\Labs\PalNums\PalNums\obj\Debug\PalNums.exe
+C:\CC6\Labs\PalNums\PalNums\obj\Debug\PalNums.pdb
